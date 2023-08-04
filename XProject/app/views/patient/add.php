@@ -13,7 +13,7 @@
         <input type="text" id="address" name="address" required><br>
 
 
-        <input type="submit" value="Thêm nhân viên">
+        <input type="submit" value="Add New Employee">
     </form>
 </body>
 </html>
